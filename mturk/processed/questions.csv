@@ -1,0 +1,106 @@
+Task,Type,Question,QuestionText,TimingColumn,AnswerColumn,Score,ChoiceText,ChoiceCode,RawValue,ValueNote,AbsoluteError
+1,Training,1,Is the highlighted cluster (including leaves) mostly positive or mostly negative?,Q2.2_3,Q2.5,1,Mostly Positive,1,6.58,Cluster average,
+1,Training,1,Is the highlighted cluster (including leaves) mostly positive or mostly negative?,Q2.2_3,Q2.5,0,Mostly Negative,2,,,
+1,Training,1,Is the highlighted cluster (including leaves) mostly positive or mostly negative?,Q2.2_3,Q2.5,0,Unsure,3,,,
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,1,1,1,Height,3
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,2,2,2,Height,2
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,3,3,3,Height,1
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,1,4,4,4,Height,0
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,5,5,5,Height,1
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,6,6,6,Height,2
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,7,7,7,Height,3
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,8,8,8,Height,4
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,9,9,9,Height,5
+1,Training,2,What is the height of the tree?,Q2.7_3,Q2.9_1,0,10,10,10,Height,6
+1,Timed,3,Which of the highlighted elements has the highest value?,Q3.2_3,Q3.4,0,"(1, 5)",1,-2.174,Node value,5.265
+1,Timed,3,Which of the highlighted elements has the highest value?,Q3.2_3,Q3.4,1,"(4, 1)",2,3.091,Node value,0
+1,Timed,3,Which of the highlighted elements has the highest value?,Q3.2_3,Q3.4,0,"(5, 13)",3,-0.655,Node value,3.746
+1,Timed,3,Which of the highlighted elements has the highest value?,Q3.2_3,Q3.4,0,Unsure,4,,,
+1,Timed,4,Is the highlighted cluster (including leaves) mostly positive or mostly negative?,Q3.5_3,Q3.7,1,Mostly Positive,1,0.4269375,Cluster average,
+1,Timed,4,Is the highlighted cluster (including leaves) mostly positive or mostly negative?,Q3.5_3,Q3.7,0,Mostly Negative,2,,,
+1,Timed,4,Is the highlighted cluster (including leaves) mostly positive or mostly negative?,Q3.5_3,Q3.7,0,Unsure,3,,,
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,1,1,1,Height,6
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,2,2,2,Height,5
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,3,3,3,Height,4
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,4,4,4,Height,3
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,5,5,5,Height,2
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,6,6,6,Height,1
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,1,7,7,7,Height,0
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,8,8,8,Height,1
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,9,9,9,Height,2
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,10,10,10,Height,3
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,11,11,11,Height,4
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,12,12,12,Height,5
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,13,13,13,Height,6
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,14,14,14,Height,7
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,15,15,15,Height,8
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,16,16,16,Height,9
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,17,17,17,Height,10
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,18,18,18,Height,11
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,19,19,19,Height,12
+1,Timed,5,What is the height of the tree?,Q3.8_3,Q3.10,0,20,20,20,Height,13
+2,Training,6,Which of the highlighted elements is furthest away from the root?,Q4.2_3,Q4.4,0,"(0, 2)",1,3,Distance from root (including node),1
+2,Training,6,Which of the highlighted elements is furthest away from the root?,Q4.2_3,Q4.4,0,"(3, 0)",2,2,Distance from root (including node),2
+2,Training,6,Which of the highlighted elements is furthest away from the root?,Q4.2_3,Q4.4,1,"(3, 6)",3,4,Distance from root (including node),0
+2,Training,6,Which of the highlighted elements is furthest away from the root?,Q4.2_3,Q4.4,0,Unsure,4,,,
+2,Training,7,Which of the highlighted elements are siblings?,Q4.6_3,Q4.8,0,"(0, 4) and (1, 3)",1,6,Shortest path (including leaves),3
+2,Training,7,Which of the highlighted elements are siblings?,Q4.6_3,Q4.8,1,"(1, 3) and (2, 2)",2,3,Shortest path (including leaves),0
+2,Training,7,Which of the highlighted elements are siblings?,Q4.6_3,Q4.8,0,"(0, 4) and (2, 2)",3,6,Shortest path (including leaves),3
+2,Training,7,Which of the highlighted elements are siblings?,Q4.6_3,Q4.8,0,Unsure,4,,,
+2,Timed,8,Which of the highlighted elements is furthest away from the root?,Q5.2_3,Q5.4,1,"(1, 5)",1,7,Distance from root (including node),0
+2,Timed,8,Which of the highlighted elements is furthest away from the root?,Q5.2_3,Q5.4,0,"(4, 1)",2,3,Distance from root (including node),4
+2,Timed,8,Which of the highlighted elements is furthest away from the root?,Q5.2_3,Q5.4,0,"(5, 13)",3,5,Distance from root (including node),2
+2,Timed,8,Which of the highlighted elements is furthest away from the root?,Q5.2_3,Q5.4,0,Unsure,4,,,
+2,Timed,9,Which of the highlighted elements is furthest away from the root?,Q5.5_3,Q5.7,0,C,1,1,Distance from root (including node),4
+2,Timed,9,Which of the highlighted elements is furthest away from the root?,Q5.5_3,Q5.7,0,K,2,3,Distance from root (including node),2
+2,Timed,9,Which of the highlighted elements is furthest away from the root?,Q5.5_3,Q5.7,1,S,3,5,Distance from root (including node),0
+2,Timed,9,Which of the highlighted elements is furthest away from the root?,Q5.5_3,Q5.7,0,Unsure,4,,,
+2,Timed,10,Which of the highlighted elements are siblings?,Q5.8_3,Q5.10,0,K and S,1,7,Shortest path (including leaves),4
+2,Timed,10,Which of the highlighted elements are siblings?,Q5.8_3,Q5.10,1,S and V,2,3,Shortest path (including leaves),0
+2,Timed,10,Which of the highlighted elements are siblings?,Q5.8_3,Q5.10,0,K and V,3,7,Shortest path (including leaves),4
+2,Timed,10,Which of the highlighted elements are siblings?,Q5.8_3,Q5.10,0,Unsure,4,,,
+3,Training,11,Which two of the highlighted elements are more closely clustered?,Q6.2_3,Q6.4,0,C and F,1,0,Level of shared parent,1
+3,Training,11,Which two of the highlighted elements are more closely clustered?,Q6.2_3,Q6.4,1,F and H,2,1,Level of shared parent,0
+3,Training,11,Which two of the highlighted elements are more closely clustered?,Q6.2_3,Q6.4,0,C and H,3,0,Level of shared parent,1
+3,Training,11,Which two of the highlighted elements are more closely clustered?,Q6.2_3,Q6.4,0,Unsure,4,,,
+3,Training,12,How many visually distinct clusters do you see in this visualization?,Q6.6_3,Q6.8,,1,1,1,Number of clusters,
+3,Training,12,How many visually distinct clusters do you see in this visualization?,Q6.6_3,Q6.8,,2,2,2,Number of clusters,
+3,Training,12,How many visually distinct clusters do you see in this visualization?,Q6.6_3,Q6.8,,3,3,3,Number of clusters,
+3,Training,12,How many visually distinct clusters do you see in this visualization?,Q6.6_3,Q6.8,,4,4,4,Number of clusters,
+3,Training,12,How many visually distinct clusters do you see in this visualization?,Q6.6_3,Q6.8,,5,5,5,Number of clusters,
+3,Timed,13,Which two of the highlighted elements are more closely clustered?,Q7.2_3,Q7.4,0,"(1, 7) and (3, 9)",1,4,Level of shared parent,1
+3,Timed,13,Which two of the highlighted elements are more closely clustered?,Q7.2_3,Q7.4,1,"(3, 9) and (6, 8)",2,5,Level of shared parent,0
+3,Timed,13,Which two of the highlighted elements are more closely clustered?,Q7.2_3,Q7.4,0,"(1, 7) and (6, 8)",3,4,Level of shared parent,1
+3,Timed,13,Which two of the highlighted elements are more closely clustered?,Q7.2_3,Q7.4,0,Unsure,4,,,
+3,Timed,14,Which two of the highlighted elements are more closely clustered?,Q7.5_3,Q7.7,0,"(1, 5) and (4, 1)",1,0,Level of shared parent,1
+3,Timed,14,Which two of the highlighted elements are more closely clustered?,Q7.5_3,Q7.7,0,"(4, 1) and (5, 13)",2,0,Level of shared parent,1
+3,Timed,14,Which two of the highlighted elements are more closely clustered?,Q7.5_3,Q7.7,1,"(1, 5) and (5, 13)",3,1,Level of shared parent,0
+3,Timed,14,Which two of the highlighted elements are more closely clustered?,Q7.5_3,Q7.7,0,Unsure,4,,,
+3,Timed,15,Which two of the highlighted elements are more closely clustered?,Q7.8_3,Q7.10,0,"C, K",1,0,Level of shared parent,1
+3,Timed,15,Which two of the highlighted elements are more closely clustered?,Q7.8_3,Q7.10,1,"K, S",2,1,Level of shared parent,0
+3,Timed,15,Which two of the highlighted elements are more closely clustered?,Q7.8_3,Q7.10,0,"C, S",3,0,Level of shared parent,1
+3,Timed,15,Which two of the highlighted elements are more closely clustered?,Q7.8_3,Q7.10,0,Unsure,4,,,
+3,Timed,16,Which of the highlighted elements is least similar to its neighbors?,Q7.11_3,Q7.13,0,L,1,4,Distance from root (including node),1
+3,Timed,16,Which of the highlighted elements is least similar to its neighbors?,Q7.11_3,Q7.13,1,O,2,3,Distance from root (including node),0
+3,Timed,16,Which of the highlighted elements is least similar to its neighbors?,Q7.11_3,Q7.13,0,T,3,6,Distance from root (including node),3
+3,Timed,16,Which of the highlighted elements is least similar to its neighbors?,Q7.11_3,Q7.13,0,Unsure,4,,,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,1,1,1,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,2,2,2,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,3,3,3,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,4,4,4,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,5,5,5,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,6,6,6,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,7,7,7,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,8,8,8,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,9,9,9,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,10,10,10,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,11,11,11,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,12,12,12,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,13,13,13,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,14,14,14,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,15,15,15,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,16,16,16,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,17,17,17,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,18,18,18,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,19,19,19,Number of clusters,
+3,Timed,17,How many visually distinct clusters do you see in this visualization?,Q7.14_3,Q7.16,,20,20,20,Number of clusters,
