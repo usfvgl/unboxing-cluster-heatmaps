@@ -1,0 +1,46 @@
+UserID,Highest Degree,Areas of Study,Usage Frequency,Experience,Elements: Individual Cells,Elements: Blocks of Cells,Elements: Row/Column Bands,Elements: Dendrogram Clusters,Elements: Heatmap Overview,Elements: Dendrogram Overview,Languages,Tools,Preference,Symmetric Matrices,Asymmetric Matrices,Max Cells,Min Cells
+2,Doctorate,Cancer Biology,Weekly,5 to 9 years,Infrequently,Always,Occasionally,Occasionally,Always,Occasionally,,,,Frequently,Frequently,"10,000",100
+3,Doctorate,Cancer Biology; Developmental Biology,Weekly,1 to 4 years,Occasionally,Always,Always,Always,Frequently,Frequently,,Cytoscape; TM4 MeV,,Infrequently,Frequently,"30,000",600
+4,Doctorate,Physics; Mathematics; Biology,Weekly,10 or more years,Frequently,Always,Always,Always,Always,Always,R; Python,GENE-E,GENE-E; R; Python,Frequently,Frequently,"200,000",200
+6,Doctorate,Computational Biology,Daily,10 or more years,Frequently,Always,Always,Always,Always,Always,R,Cytoscape,R,Infrequently,Frequently,"100,000",50
+7,Doctorate,Population Genetics,Weekly,10 or more years,Frequently,Always,Always,Always,Occasionally,Infrequently,R,,R,Occassionaly,Occassionaly,"100,000",100
+8,Master's,Biomedical Engineering,Yearly,1 to 4 years,Infrequently,Occasionally,Frequently,Infrequently,Infrequently,Infrequently,Python; Javascript,,Javascript,Never,Never,,
+9,Doctorate,Molecular Biology,Daily,5 to 9 years,Infrequently,Frequently,Occasionally,Frequently,Frequently,Always,R,Java TreeView; TM4 MeV,R; Java TreeView,Occassionaly,Frequently,"5,000,000",100
+10,Master's,Computational Biology,Weekly,10 or more years,Occasionally,Always,Always,Occasionally,Always,Occasionally,R; Python; Matlab,Cytoscape; Circos,R,Frequently,Frequently,"100,000",50
+11,Doctorate,Biology,Daily,10 or more years,Frequently,Frequently,Frequently,Frequently,Frequently,Frequently,R,,R,Frequently,Frequently,"1,000,000,000,000",100
+12,Doctorate,,Weekly,5 to 9 years,Frequently,Always,Always,Always,Always,Always,R; Python,,,Occassionaly,Occassionaly,"10,000",25
+13,Doctorate,Bioinformatics,Weekly,5 to 9 years,Occasionally,Always,Frequently,Occasionally,Frequently,Frequently,R,Gitools; Cytoscape,R,Occassionaly,Frequently,"900,000,000",400
+14,Doctorate,Computer Science; Mathematics,Weekly,5 to 9 years,Infrequently,Always,Always,Occasionally,Frequently,Occasionally,R,GENE-E,R,Frequently,Frequently,"25,000",100
+15,Doctorate,Biology,Daily,1 to 4 years,Infrequently,Always,Always,Always,Always,Always,R; Python,Cytoscape,R,Frequently,Frequently,"1,000,000",80
+16,Master's,Mathematics,Monthly,1 to 4 years,Occasionally,Occasionally,Occasionally,Infrequently,Frequently,Frequently,Python; Javascript,Cytoscape,,Occassionaly,Occassionaly,"10,000",100
+17,Bachelor's,Bioinformatics,Daily,5 to 9 years,Never,Frequently,Frequently,Always,Always,Frequently,R,,,Frequently,Always,"1,000,000",100
+18,Doctorate,Biology,Weekly,10 or more years,Frequently,Frequently,Frequently,Infrequently,Occasionally,Infrequently,R,,R,Frequently,Frequently,"240,000",25
+19,Master's,Biology,Weekly,5 to 9 years,Occasionally,Frequently,Always,Occasionally,Occasionally,Occasionally,R,,,Frequently,Frequently,"1,000,000",100
+20,Doctorate,Genetics,Monthly,5 to 9 years,Infrequently,Always,Frequently,Occasionally,Occasionally,Occasionally,R; Python; Matlab,Cytoscape,,Frequently,Infrequently,"100,000,000","10,000"
+21,Doctorate,Biology,Weekly,5 to 9 years,Infrequently,Always,Frequently,Always,Frequently,Frequently,R,Cluster (Eisen),,Frequently,Frequently,"4,000,000","2,000"
+22,Master's,Bioinformatics,Daily,10 or more years,Infrequently,Always,Always,Always,Occasionally,Frequently,R; Python; Javascript,Cytoscape; Circos; Java TreeView,,Always,Never,"900,000,000",100
+23,Doctorate,Biophysics,Weekly,10 or more years,Infrequently,Always,Always,Frequently,Always,Frequently,R,Cytoscape,Cytoscape,Frequently,Frequently,"250,000",100
+24,Doctorate,Genomics,Monthly,10 or more years,Frequently,Frequently,Frequently,Frequently,Occasionally,Frequently,R; Python,Gitools; Cytoscape; DNAStar; Tableau,,,,,"1,000,000"
+25,Bachelor's,Bioinformatics,Monthly,5 to 9 years,Occasionally,Always,Frequently,Frequently,Frequently,Infrequently,R; Python; Javascript; Matlab,Gitools; Cytoscape; DNAStar; Circos,,Occassionaly,Frequently,,
+26,Doctorate,Bioinformatics,Daily,10 or more years,Frequently,Always,Always,Always,Always,Always,R,Cytoscape; Circos,,Frequently,Always,"10,000,000",25
+27,Doctorate,Bioinformatics,Monthly,5 to 9 years,Infrequently,Frequently,Frequently,Always,Frequently,Always,R; Python,Cytoscape; Partek; TIBCOÌ_Spotfire,R,Frequently,Infrequently,"1,000,000",100
+28,Bachelor's,Biochemistry,Weekly,1 to 4 years,Occasionally,Always,Occasionally,Frequently,Occasionally,Frequently,R; Javascript,,R; Javascript,Infrequently,Infrequently,"10,000",100
+29,Doctorate,Biology,Monthly,5 to 9 years,Occasionally,Always,Always,Always,Always,Frequently,R,Cytoscape; Circos,,Always,Occassionaly,"1,000,000",36
+31,Doctorate,Computer Science,Weekly,5 to 9 years,Infrequently,Always,Frequently,Frequently,Occasionally,Always,R; Matlab,,,Occassionaly,Frequently,"18,000,000","1,500"
+32,Doctorate,Genomics; Biology,Weekly,1 to 4 years,Frequently,Frequently,Frequently,Frequently,Occasionally,Infrequently,R,Cytoscape,R,Occassionaly,Frequently,"250,000",100
+33,Doctorate,Statistical Genetics,Monthly,5 to 9 years,Infrequently,Always,Always,Always,Frequently,Frequently,R,,,Always,Occassionaly,"1,000,000",25
+34,Master's,Physiology,Monthly,Under 1 year,Never,Always,Always,Frequently,Never,Infrequently,R,,,Occassionaly,Occassionaly,,
+35,Doctorate,Molecular Biology,Monthly,1 to 4 years,Infrequently,Always,Occasionally,Infrequently,Frequently,Always,R,Cytoscape; Circos,,Occassionaly,Infrequently,"720,000",600
+36,Doctorate,Computational Biology,Monthly,Under 1 year,Occasionally,Always,Frequently,Frequently,Frequently,Frequently,R; Python,,,Frequently,Never,"10,000",400
+37,Doctorate,Biology,Weekly,1 to 4 years,Infrequently,Always,Frequently,Frequently,Frequently,Frequently,,Cluster (Eisen),,Always,Never,"10,000","2,500"
+38,Bachelor's,Applied Mathematics,Weekly,1 to 4 years,Occasionally,Always,Always,Always,Occasionally,Occasionally,R,Cytoscape; Circos,R,Frequently,Frequently,"1,000,000",625
+40,Doctorate,Computational Biology,Weekly,5 to 9 years,Infrequently,Always,Always,Always,Occasionally,Occasionally,R,Cytoscape; Circos,,Frequently,Frequently,,
+41,Doctorate,Bioinformatics,Monthly,5 to 9 years,Never,Frequently,Frequently,Frequently,Infrequently,Infrequently,R; Python,,,Never,Frequently,"1,000,000",100
+42,Doctorate,Computer Science,Weekly,5 to 9 years,Occasionally,Always,Frequently,Infrequently,Always,Infrequently,R; Matlab,Cytoscape,,Always,Infrequently,"250,000",100
+43,Doctorate,Cancer Biology,Weekly,1 to 4 years,Infrequently,Always,Always,Always,Occasionally,Frequently,,,,Infrequently,Frequently,,
+44,Doctorate,Statistics,Yearly,5 to 9 years,Infrequently,Frequently,Occasionally,Frequently,Frequently,Frequently,R,,,Frequently,Infrequently,,
+45,Doctorate,Biology,Monthly,Under 1 year,Never,Always,Always,Always,Never,Always,,,,Always,Always,,
+46,Doctorate,Biology,Monthly,5 to 9 years,Infrequently,Always,Always,Always,Always,Frequently,,,,Frequently,Frequently,"10,000",100
+47,Doctorate,Biology; Statistics,Monthly,5 to 9 years,Frequently,Frequently,Frequently,Frequently,Frequently,Occasionally,Gnuplot; Java,,,Infrequently,Infrequently,"10,000",100
+48,Doctorate,Biophysics,Yearly,1 to 4 years,Infrequently,Occasionally,Always,Always,Occasionally,Frequently,R; Python,,,Always,Infrequently,"10,000",100
+49,Doctorate,Biology,Daily,10 or more years,Occasionally,Always,Always,Always,Always,Always,R,Cytoscape; DNAStar; TM4 MeV,R; TM4 Mev,Frequently,Frequently,"100,000,000",50
