@@ -23,7 +23,7 @@ UserID,Highest Degree,Areas of Study,Usage Frequency,Experience,Elements: Indivi
 24,Doctorate,Genomics,Monthly,10 or more years,Frequently,Frequently,Frequently,Frequently,Occasionally,Frequently,R; Python,Gitools; Cytoscape; DNAStar; Tableau,,,,,"1,000,000"
 25,Bachelor's,Bioinformatics,Monthly,5 to 9 years,Occasionally,Always,Frequently,Frequently,Frequently,Infrequently,R; Python; Javascript; Matlab,Gitools; Cytoscape; DNAStar; Circos,,Occassionaly,Frequently,,
 26,Doctorate,Bioinformatics,Daily,10 or more years,Frequently,Always,Always,Always,Always,Always,R,Cytoscape; Circos,,Frequently,Always,"10,000,000",25
-27,Doctorate,Bioinformatics,Monthly,5 to 9 years,Infrequently,Frequently,Frequently,Always,Frequently,Always,R; Python,Cytoscape; Partek; TIBCOÌ_Spotfire,R,Frequently,Infrequently,"1,000,000",100
+27,Doctorate,Bioinformatics,Monthly,5 to 9 years,Infrequently,Frequently,Frequently,Always,Frequently,Always,R; Python,Cytoscape; Partek; TIBCO Spotfire,R,Frequently,Infrequently,"1,000,000",100
 28,Bachelor's,Biochemistry,Weekly,1 to 4 years,Occasionally,Always,Occasionally,Frequently,Occasionally,Frequently,R; Javascript,,R; Javascript,Infrequently,Infrequently,"10,000",100
 29,Doctorate,Biology,Monthly,5 to 9 years,Occasionally,Always,Always,Always,Always,Frequently,R,Cytoscape; Circos,,Always,Occassionaly,"1,000,000",36
 31,Doctorate,Computer Science,Weekly,5 to 9 years,Infrequently,Always,Frequently,Frequently,Occasionally,Always,R; Matlab,,,Occassionaly,Frequently,"18,000,000","1,500"
